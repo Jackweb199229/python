@@ -96,9 +96,7 @@ while(i):
 
    elif('name' in str2 and 'boss' not in str2):
        print('My name is siri ')
-   elif("lover" in str2 or "love" not in str2):
-   	print("My boss lover's name is SOHANA")
-   	 	
+      	 	
    elif('add' in str2 or 'plus' in str2):
         print('addition is =',add())
    elif('sub' in str2):
@@ -128,6 +126,6 @@ while(i):
        print(list[0],'factorial is =',FACTORIAL());
    elif('boss' in str2):
        print('my boss name is Mazhar')
-   elif('lover' in str2):
-       print('my boss lovers name is SOHANA')
+   elif("lover" in str2 or "boss" not in str2):
+   	print("My boss lover's name is SOHANA")
      
