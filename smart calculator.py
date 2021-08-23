@@ -126,6 +126,5 @@ while(i):
        print(list[0],'factorial is =',FACTORIAL());
    elif('boss' in str2):
        print('my boss name is Mazhar')
-   elif("lover" in str2 or "boss" not in str2):
-   	print("My boss lover's name is SOHANA")
+   
      
